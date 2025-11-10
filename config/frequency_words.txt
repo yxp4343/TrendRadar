@@ -16,6 +16,8 @@ grok
 
 VibeCoding
 TRAE
+Cursor
+Claude Code
 Qwen
 kimi
 DeepSeek
@@ -60,7 +62,6 @@ mac
 ios
 
 ai
-!gai
 人工智能
 
 国产
